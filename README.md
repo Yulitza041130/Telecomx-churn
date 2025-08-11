@@ -40,8 +40,6 @@ Se realizaron análisis para entender la relación entre las variables y el chur
 - Relación entre soporte técnico y cancelación.
 - Impacto de servicios adicionales (streaming, líneas múltiples, etc.).
 
-> 💡 *Pega aquí las figuras que ya generaste en el notebook o re-ejecuta las celdas para que aparezcan bajo este informe.*
-
 ---
 
 ## 4. Conclusiones e Insights
@@ -65,7 +63,7 @@ Se realizaron análisis para entender la relación entre las variables y el chur
 - Mantener y promocionar planes económicos como estrategia de retención.  
 
 ---
-## 📌 Tecnologías
+##  Tecnologías
 - Python
 - Pandas
 - Matplotlib / Seaborn
