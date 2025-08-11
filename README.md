@@ -45,10 +45,10 @@ Se realizaron análisis para entender la relación entre las variables y el chur
 ## 4. Conclusiones e Insights
 **Principales hallazgos:**
 - Clientes con contratos mensuales presentan una tasa de cancelación de más del 88%.
--Los clientes con menor antigüedad muestran mayor propensión a cancelar.
+- Los clientes con menor antigüedad muestran mayor propensión a cancelar.
 - La ausencia y/o baja calidad de soporte técnico incrementa significativament la probabilidad de cancelación, más del 77% de los clientes que cancelaron no tienen soporte técnico.
--El método de pago por débito bancario automático influye en la cancelación, más del 45% de las cancelaciones se ven relacionadas a este medio de pago.
--Aunque los adultos mayores representan el 25% de las cancelaciones totales ,dentro de esta población existe un riesgo de cancelacion alto de casi el 50% .
+- El método de pago por débito bancario automático influye en la cancelación, más del 45% de las cancelaciones se ven relacionadas a este medio de pago.
+- Aunque los adultos mayores representan el 25% de las cancelaciones totales ,dentro de esta población existe un riesgo de cancelacion alto de casi el 50% .
 - La facturación mensual no evidencia impacto negativo en la cancelacion del servicio, por el contrario , el plan mas economico concentra la mayor cantidad de clientes  y presenta menor proporción de cancelaciones, lo que sugiere que el costo mensual podria actuar como factor de retención.
 
 ---
